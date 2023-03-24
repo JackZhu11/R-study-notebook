@@ -30,3 +30,4 @@ runif()#产生n个标准分布随机数
 rnorm(产生n个标准分布随机数)
 
 ```
+hello world I love this colorful world
